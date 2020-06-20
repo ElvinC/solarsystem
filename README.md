@@ -7,4 +7,4 @@ The program requires astropy and astroquery for getting data from JPL's Horizon.
 
 `gravitational_system.py` and `body.py` contains for simulating general gravitational _n_-body systems using various numerical methods. A few numerical algorithms (Euler, Verlet, 3rd and 4th order methods by Ruth) are implemented as methods in the `nbody_system` class. The other files contain somewhat random experiments (e.g. comparisons to JPL data).
 
-![Simulation](img/assets/images/3Dview.PNG)
+![Simulation](img/3Dview.PNG)
